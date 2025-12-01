@@ -77,4 +77,4 @@ For each frame:
 .
 ├── lane_detect_cv.py      # Main inference script (classical CV pipeline)
 ├── README.md              # Project documentation
-└── (optional) notebooks/  # Colab / Jupyter notebooks (if you add them)
+└── Run in notebooks/  # Colab / Jupyter notebooks 
